@@ -1,0 +1,12 @@
+C:\Users\Marek\source\repos\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Marek\source\repos\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Marek\source\repos\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.csprojAssemblyReference.cache
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.cache
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Marek\source\repos\Kalkulacka\bin\Debug\zu-ZA\Kalkulacka.resources.dll
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\Kalkulacka.Form1.zu-ZA.resources
+C:\Users\Marek\source\repos\Kalkulacka\obj\Debug\zu-ZA\Kalkulacka.resources.dll
