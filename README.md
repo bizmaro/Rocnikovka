@@ -1,1 +1,1 @@
-# Rocnikovka
+# Rocnikova prace Marek Bizík GCHD
